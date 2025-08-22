@@ -1,4 +1,4 @@
-# ATS System
+# My ATS System
 
 A simple Applicant Tracking System (ATS) to manage job applications and recruitment workflow.
 
